@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @iqeducation
+- 👀 I’m interested in Git/Github
